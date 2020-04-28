@@ -1,0 +1,2 @@
+rootProject.name='android_week12_ImageResizeAndSave'
+include ':app'
